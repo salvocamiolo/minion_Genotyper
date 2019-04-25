@@ -1,0 +1,33 @@
+Percentage of each code per positionA	4
+A	7
+N	7
+N	7
+N	7
+H	7
+A	7
+C	7
+I	4
+E	1
+P	5
+Y	3
+H	3
+J	1
+D	3
+
+Found strains
+AANNNHACIPYHD	Merlin
+
+Code trimer frequency in reads
+AANNNHACIPYHD
+AAN	4
+ANN	7
+NNN	7
+NNH	7
+NHA	7
+HAC	7
+ACI	2
+CIP	2
+IPY	2
+PYH	3
+YHD	3
+
