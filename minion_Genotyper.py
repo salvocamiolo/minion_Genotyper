@@ -180,6 +180,7 @@ outfile2.write("Percentage of each code per position\n")
 for a in range(13):
     foundGenotypes = {}
     print "Analyzing gene",orderedHyperLoci[a]
+    outfile2.write(orderedHyperLoci[a]+"\n")
     for b in genotypeStringList:
         for c in aa:
             if c in b[a]:
