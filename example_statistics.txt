@@ -1,41 +1,41 @@
 Percentage of each code per position
+Rl5a
 A	45
+Rl6
 C	3
 H	31
+Rl2
 C	49
+Rl13
 D	50
+Ul1
 H	34
 M	1
 N	2
+UL9
 Q	1
 S	1
 A	50
+Ul11
 H	32
 S	1
+Ul20
 A	49
+Ul73
 H	34
 M	1
+Ul74
 Q	1
 A	31
+Ul120
 P	1
 C	1
 R	52
+Ul146
 Q	32
+Ul139
 A	52
-Q	55
-V	32
-A	53
-H	19
-D	56
-L	17
-D	58
-H	43
-B	1
-R	11
-C	1
-P	1
-D	34
-N	10
+
 
 Found strains
 CCDAARAQADDHD	No match found
