@@ -9,9 +9,13 @@ A read resulting in genotyping string in which a hyphen symbol separates two cod
 After all the genotyping strings are computed, they are aligned and complete haplotypes are reconstructed by exploting the overlap between consecutive trimers in a fashion recalling the Overlap Layout Consensus (OLC) method, as shown in the following example:
 
 ACCF---------    Genotype string 1
+
 -CCFAA-------    Genotype string 2
+
 --CFAAGFGG---    Genotype string 3
+
 -------FGGADA    Genotype string 4
+
 
 ACCFAAGFGGADA    Final haplotype
 
